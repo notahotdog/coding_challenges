@@ -1,0 +1,2 @@
+- Learnt how to use bashscript functions
+- Learnt how to take in argvariables in python
